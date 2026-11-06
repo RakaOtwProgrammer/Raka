@@ -1,0 +1,15 @@
+# tugas dpk komperasi
+
+print("===================================")
+print("    By : Rakha rassendria")
+print("")
+a = int(input("ANGKA 1 : "))
+b = int(input("ANGKA 2 : "))
+print("")
+print("ANGKA 1 == ANGKA 2 :", (a) == (b))
+print("ANGKA 1 != ANGKA 2 :", (a) != (b))
+print("ANGKA 1 > ANGKA 2 :", (a) > (b))
+print("ANGKA 1 < ANGKA 2 :", (a) < (b))
+print("ANGKA 1 >= ANGKA 2 :", (a) >= (b))
+print("ANGKA 1 <= ANGKA 2 :", (a) <= (b))
+print("==================================")
